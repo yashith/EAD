@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 50% !important;
+    border: 1px !important;
+    border-color: rgb(196, 196, 196);
+}
+.butngrp{
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+    
+}
+.btnstyle{
+    margin: 10px !important;
+}
